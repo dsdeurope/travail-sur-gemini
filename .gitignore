@@ -1,0 +1,7 @@
+*.sqlite3
+__pycache__/
+*.pyc
+.env
+cles-gemini-AQ.txt
+comptes-proteges.json
+browser-session.json
